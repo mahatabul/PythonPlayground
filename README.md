@@ -1,4 +1,4 @@
-# Beginner-Level Python Projects
+# PythonPlayground
 
 Welcome to my collection of beginner-level Python projects! This repository showcases my journey as I explore the fundamentals of Python programming through various projects. Each project reflects my growth and understanding of core programming concepts, as well as my dedication to continuous learning and improvement.
 
@@ -29,4 +29,5 @@ Here are some of the projects you'll find in this repository:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/python-beginner-projects.git
+   git clone https://github.com/mahatabul/PythonPlayground.git
+
